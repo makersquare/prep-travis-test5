@@ -1,0 +1,28 @@
+{
+  "name": "prep-travis-test5",
+  "version": "1.0.0",
+  "description": "a sample testing setup",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tevko/FEJStesting.git"
+  },
+  "keywords": [
+    "testing",
+    "karma",
+    "jasmin",
+    "travis",
+    "node"
+  ],
+  "author": "@mmeigooni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makersquare/prep-travis-test5/issues"
+  },
+  "homepage": "https://github.com/makersquare/prep-travis-test5",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-jasmine": "^1.1.0"
+  }
+}
