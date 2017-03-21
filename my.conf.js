@@ -15,7 +15,7 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      '/dist/coolLibrary.js , /tests/checkDivAttribute.js , /tests/checkDivBg.js'
+      '/dist/coolLibrary.js , ./tests/checkDivAttribute.js , ./tests/checkDivBg.js'
     ],
 
 
